@@ -1,0 +1,7 @@
+print('Hello,World!tjt')
+print(1+6)
+print(2*4)
+print()
+print('1+2')
+print('The End')
+print("The End",'i miss krill',' ','machine learning',7,9*7)
